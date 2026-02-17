@@ -8,7 +8,7 @@ The primary goal of this project is to improve the efficiency of a passenger tra
   - **Second Prototype:** Our second, however, will use ArduPilot to enable in-flight gain scheduling for the retracted and extended flight modes to make the aircraft easier to fly and to enable smoother testing, at the cost of increased complexity. I have been developing LUA scripts to write on board the flight controller that will read PWM signal changes from the transmitter and rewrite the gains from a pre-determined set for each configuration. In the meantime, we have finished a dry avionics setup and are now fully outfitting the first prototype with avionics, and we will be performing component checks with the university shortly.
  
 ### Student Conference Presentation
-I will be attending the AIAA Region V Student Conference as both a general officer representative of CU AIAA and as a presenter, alongside two of my teammates. We will be writing a paper with a group of six teammates to synthesize what we have learned and draw a conclusion on retractable canards and the methodology we used to do so. Our abstract may be found [here]().
+I will be attending the AIAA Region V Student Conference as both a general officer representative of CU AIAA and as a presenter, alongside two of my teammates. We will be writing a paper with a group of six teammates to synthesize what we have learned and draw a conclusion on retractable canards and the methodology we used to do so. Our abstract may be found [here](AIAA_Stampede_Sky_Abstract.pdf).
 
 ### Full Scale Current Configuration
 
