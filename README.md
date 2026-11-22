@@ -4,7 +4,7 @@ The primary goal of this project was to improve passenger transport aircraft eff
 ### My Role
 - **Flight Mechanics:** Early in the project, I focused on full-scale flight mechanics, primarily control surface sizing and airframe stability analysis. I identified the flight regimes used for control surface sizing, which helped guide the team toward the final configuration.
 - **Prototype:**
-  - **Initial Prototype:** As full-scale optimization continued, I shifted heavily into avionics. The team flew the first prototype on INAV using a streamlined ExpressLRS (ELRS) flight controller setup to simplify operations and streamline pre-flight checks.
+  - **Initial Prototype:** As full-scale optimization continued, I shifted heavily into avionics. The team flew the first prototype on INAV using a streamlined ExpressLRS (ELRS) flight controller setup to simplify operations and pre-flight checks.
   - **Second Prototype:** The second prototype ran ArduPilot to support in-flight gain scheduling between retracted and extended modes, trading added complexity for easier handling and smoother testing. I wrote onboard Lua scripts that read transmitter PWM changes and swapped in pre-determined gain sets per configuration. 
     
 ### Student Conference Presentation
